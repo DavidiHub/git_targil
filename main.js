@@ -1,4 +1,4 @@
 function f() {
 
-    alert("hello cute ppl")
+    alert("hello cutest ppl")
 }
